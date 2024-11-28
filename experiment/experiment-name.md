@@ -1,1 +1,1 @@
-## Experiment name
+## Differentiation - Method Based on Interpolation (Lagrange's Method)
